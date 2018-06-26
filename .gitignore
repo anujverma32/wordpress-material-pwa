@@ -1,0 +1,18 @@
+# See https://help.github.com/ignore-files/ for more about ignoring files.
+
+# dependencies
+frontend/material_pwa/node_modules
+
+# testing
+frontend/material_pwa/coverage
+
+# misc
+frontend/material_pwa/.DS_Store
+frontend/material_pwa/.env.local
+frontend/material_pwa/.env.development.local
+frontend/material_pwa/.env.test.local
+frontend/material_pwa/.env.production.local
+
+frontend/material_pwa/npm-debug.log*
+frontend/material_pwa/yarn-debug.log*
+frontend/material_pwa/yarn-error.log*
