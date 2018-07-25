@@ -3,9 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "homepage": "/wpmpwa/",
+  "proxy": "http://anuj-wordpress.com/",
   "dependencies": {
-    "@material-ui/core": "^1.3.0",
-    "@material-ui/icons": "^1.1.0",
+    "@material-ui/core": "^1.4.1",
+    "@material-ui/icons": "^2.0.0",
     "axios": "^0.18.0",
     "classnames": "^2.2.6",
     "history": "^4.7.2",
@@ -14,10 +15,10 @@
     "react-redux": "^5.0.7",
     "react-router-dom": "^4.3.1",
     "react-scripts": "1.1.4",
-    "react-transition-group": "^2.3.1",
     "redux": "^4.0.0",
     "redux-logger": "^3.0.6",
-    "redux-thunk": "^2.3.0"
+    "redux-thunk": "^2.3.0",
+    "universal-cookie": "^2.2.0"
   },
   "scripts": {
     "start": "react-scripts start",
